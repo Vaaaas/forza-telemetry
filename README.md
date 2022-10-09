@@ -66,7 +66,7 @@ More information on how to enable this and why it's necessary can be found [here
 0. Pre-requisites: Make sure `git` and `npm` are installed
 1. Clone this repository: `git clone https://github.com/austinbaccus/forza-telemetry.git`
 2. Open a terminal and navigate to the folder containing the `src` folder
-3. Install dependencies with `npm install`
+3. Install dependencies with `npm install --force`
 4. Run: `npm run build:react | npm run build | npm run start`
 
 OR
