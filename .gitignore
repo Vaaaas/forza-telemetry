@@ -357,4 +357,5 @@ MigrationBackup/
 
 dist/
 
+release-builds/
 data/*.csv
